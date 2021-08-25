@@ -17,8 +17,10 @@
 - [Section 01](./section-01)
   - Getting Started
 - Section 02
-- Section 03
+- [Section 03](./section-03)
+  - Evaluating Recommender Systems
 - Section 04
+  - A Recommender Engine Framework
 - Section 05
 - Section 06
 - Section 07
