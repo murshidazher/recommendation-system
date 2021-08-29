@@ -14,13 +14,10 @@
 
 ## Quick Navigation by Sections
 
-- [Section 01](./section-01)
-  - Getting Started
-- Section 02
-- [Section 03](./section-03)
-  - Evaluating Recommender Systems
-- Section 04
-  - A Recommender Engine Framework
+- [Getting Started](./GettingStarted)
+- [IntroToPython](./IntroToPython)
+- [Evaluating Recommender Systems](./Evaluating)
+- [A Recommender Engine Framework](./Framework)
 - Section 05
 - Section 06
 - Section 07
